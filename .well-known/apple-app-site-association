@@ -3,9 +3,15 @@
     "apps": [],
     "details": [
       {
-        "appID": "V6XQGMT24J",
+        "appID": "V6XQGMT24J.columbiaspectator.specmobileapp",
         "paths": ["*"]
       }
     ]
+  },
+  "activitycontinuation": {
+    "apps": ["V6XQGMT24J.columbiaspectator.specmobileapp"]
+  },
+  "webcredentials": {
+    "apps": ["V6XQGMT24J.columbiaspectator.specmobileapp"]
   }
 }
