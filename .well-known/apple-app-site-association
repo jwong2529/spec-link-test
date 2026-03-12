@@ -1,17 +1,25 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "V6XQGMT24J.columbiaspectator.specmobileapp",
-        "paths": ["*"]
-      }
-    ]
-  },
-  "activitycontinuation": {
-    "apps": ["V6XQGMT24J.columbiaspectator.specmobileapp"]
-  },
-  "webcredentials": {
-    "apps": ["V6XQGMT24J.columbiaspectator.specmobileapp"]
-  }
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "V6XQGMT24J.columbiaspectator.specmobileapp",
+                "paths": [
+                    "/news/*",
+                    "/city-news/*",
+                    "/opinion/*",
+                    "/arts-and-culture/*",
+                    "/sports/*",
+                    "/spectrum/*",
+                    "/eye/*",
+                    "/photo-essays/*",
+                    "/videos/*",
+                    "/multimedia/*",
+                    "/illustrations/*",
+                    "/podcasts/*",
+                    "/se/*"
+                ]
+            }
+        ]
+    }
 }
